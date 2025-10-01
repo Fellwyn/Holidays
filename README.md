@@ -1,12 +1,11 @@
-# Holidays Calculator
+# $\textsf{\color{#c416c4}{Holidays Calculator}}$ 🌟
 
 
 ### About
 No AI tools used.
 
 Everything started from here: https://www.geeksforgeeks.org/how-to-calculate-days-left-until-next-christmas-using-javascript/
-and I continued to just build and read other devs' problems in spesific areas and
-modified them usable for my project 
+and I continued to build and read about other developers' problems in specific areas, modifying their solutions to make them usable for my project.
 
 Thinking and solution process:
 - I was thinking how to add other days and store all in a nice way (--> object)
@@ -16,6 +15,8 @@ Thinking and solution process:
 
 
 
+### Things to fix:
+- finish the Christmas page
 
 
 
